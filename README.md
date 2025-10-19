@@ -1,7 +1,5 @@
 # 🧰 Sheba.xyz — Fullstack Home Service Platform
 
-![Homepage Preview](./screenshots/homepage.png)
-
 A modern **fullstack web application** for booking and managing home services.  
 **Sheba.xyz** acts as your *personal assistant* — a one-stop solution where users can order any service, anytime.  
 Built with **React**, **TailwindCSS**, **Node.js**, **Express**, and **MongoDB**, it provides a seamless experience for both customers and admins.
